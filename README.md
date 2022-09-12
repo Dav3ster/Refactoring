@@ -6,7 +6,7 @@ The purpose of this challenge was to become familar with using semantic HTML tag
 make the webpage more accessible. This challenge also helped reinforce good commit habits, along with commenting practices, and CSS style rule compiling. It was a good lesson on making pre-existing code better and cleaner. 
 
 ## image of webpage
-
-![Read me image](file:///C:/Users/David%20Stewart/Projects/urban-octo-telegram/Develop/index.html)
+ 
+![Readme image](.assets/images/Readme-image.jpg)
 
 ## Deployment link
