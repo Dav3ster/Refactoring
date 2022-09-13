@@ -7,6 +7,6 @@ make the webpage more accessible. This challenge also helped reinforce good comm
 
 ## Image of webpage
  
-![Image](/Develop/assets/images/Readme-image.jpg)
+![Image](./assets/images/Readme-image.jpg)
 
 ## Deployment link
