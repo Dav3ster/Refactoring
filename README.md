@@ -11,4 +11,4 @@ make the webpage more accessible. This challenge also helped reinforce good comm
 
 ## Deployment link
 
-https://dav3ster.github.io/week-1-challenge/
+https://dav3ster.github.io/week-1-challenge-Refactoring/
